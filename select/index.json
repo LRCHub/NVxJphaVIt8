@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "two",
+  "base_artist": "bbno$",
+  "createdAt": "2025-12-25T14:15:01.862615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Walk The Line (feat. The Tennessee Two) [Single Version]",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/01_I_Walk_The_Line_(feat._The_Tennessee_Two)_[Single_Version]_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If It Don't Take Two",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/02_If_It_Don't_Take_Two_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In a Week or Two",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/03_In_a_Week_or_Two_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Party for Two (Country Version With Intro)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/04_Party_for_Two_(Country_Version_With_Intro)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Melrose Avenue Cinema Two",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/05_The_Melrose_Avenue_Cinema_Two_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Melrose Avenue Cinema Two (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": false,
+      "path": "select/06_The_Melrose_Avenue_Cinema_Two_(Album_Version)_Clay_Walker.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trying To Love Two Women - Single Version",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/07_Trying_To_Love_Two_Women_-_Single_Version_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Trying To Love Two Women (Single Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/08_Trying_To_Love_Two_Women_(Single_Version)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Two Black X's",
+      "artist": "Dylan Schneider",
+      "has_synced": true,
+      "path": "select/09_Two_Black_X's_Dylan_Schneider.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Two Dollars In The Jukebox",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/10_Two_Dollars_In_The_Jukebox_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Two Dollars in the Jukebox (2008 Remaster)",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/11_Two_Dollars_in_the_Jukebox_(2008_Remaster)_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Two Doors Down",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/12_Two_Doors_Down_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Two Doors Down",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/13_Two_Doors_Down_Dolly_Parton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "two",
+      "artist": "bbno$",
+      "has_synced": false,
+      "path": "select/pl_01_two_bbno$.txt"
+    }
+  ]
+}
