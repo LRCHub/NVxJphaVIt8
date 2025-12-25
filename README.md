@@ -1,0 +1,112 @@
+# bbno$ – two
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Two, four, six, eight
+Who do we appreciate?
+That's bbno$,
+he's always up to something
+bbno$, got money,
+I'm a paradox
+Three school creatine,
+steam room, Equinox
+Three bad thots givin'
+me triceratops
+Three short kings in the
+squad like Eragon
+I'ma take your chick
+like a thief in the night
+You off, I'm on,
+this the circle of life
+I'ma top my shit, yeah,
+I'm crossin' the line
+Yeah, I'm B-B-N-O-one of a kind
+Missed a zero, bro made a typo
+My girl got a girl, she a nympho
+Ain't too good,
+I think I need lypo
+Pop, one, two, three, four,
+I'm a psycho
+(That's two)
+Commas in a million bucks
+(That's two)
+More that I'm givin' in fucks
+(That's two)
+Shawty's with them big ol' butt
+(That's two)
+Forgiato sets on a truck
+One to the kidney,
+two to the dome
+That's left, right, left, right,
+left, right, go
+Got a Rollie for the brunch
+and a Patek for the show
+That's left, right, left, right,
+left, right, go
+Got a big new body and I whip
+it like a pro
+That's left, right, left, right,
+left, right, go
+Got a great main chick
+and a real bad hoe
+That's left, right, left, right,
+left, right, go
+Two, four, six, eight
+Who do we appreciate?
+That's bbno$,
+he's always up to something
+Two, four, six, eight
+Who's that guy who really ate?
+That's bbno$,
+he never leave 'em hungry
+Ou-ou-ou-ou-outside
+stuntin' when the shine
+is sunning
+With a sweet new honey, like,
+"Ooh-la-la"
+Don't walk, I'm struttin',
+doin' pingaz at bunnings
+Your man ain't sellin'
+'cause I'm really that guy
+Only on fats,
+love cheese when keto
+Pet my fur like
+a pussycat peacoat
+Funko pop that pussy like calico
+Dust on the table,
+ain't talkin' no Cheeto
+Bands on bands on bands on bands
+Yeah, I pay millions on my tax
+Bands on bands on bands on bands
+Bet on me,
+that's a one-step plan
+Doin' that, doin' that,
+doin' that dance
+Shakin' that jelly, yeah,
+shakin' that jam
+Takin' that, takin' that,
+takin' advance
+So much cash,
+it will put you in a trance
+Two, four, six, eight
+Who do we appreciate?
+That's bbno$,
+he's always up to something
+Two, four, six, eight
+Who's that guy who really ate?
+That's bbno$,
+he never leave 'em hungry
+Two, four, six, eight
+That's left, right, left, right,
+left, right, go
+Two, four, six, eight
+That's left, right, left, right,
+left, right, go
+Two, four, six, eight
+That's left, right, left, right,
+left, right, go
+Two, four, six, eight
+That's left, right, left, right,
+left, right, go
+```
